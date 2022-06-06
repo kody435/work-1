@@ -9,7 +9,7 @@ const Sec1 = () => {
 
   const divVariants = {
     hover: {
-      scale: 1.3,
+      scale: 1.2,
     }
   }
 
