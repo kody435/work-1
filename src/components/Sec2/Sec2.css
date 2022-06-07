@@ -1,0 +1,50 @@
+.div1 {
+    height: 100%;
+}
+
+.div2 {
+    height: 100%;
+    width: 100vw;
+}
+
+.img1 {
+    width: 100vw;
+    height: auto;
+}
+
+.img2 {
+    width: 50vw;
+    height: auto;
+    display: block;
+    justify-content: flex-end;
+    align-items: flex-end;
+    border-radius: 50px;
+}
+
+.div-12 {
+    display: flex;
+    flex-direction: column;
+}
+
+.h2 {
+    width: 50vw;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    height: auto;
+    padding-top: 10vh;
+}
+
+.h5 {
+    display: flex;
+    width: 50vw;
+    padding-left: 8vw;
+    padding-right: 8vw;
+    justify-content: center;
+    font-size: larger;
+    align-items: center;
+    text-align: center;
+    color: white;
+    height: 100%;
+}
